@@ -65,6 +65,11 @@ energy, iteration
 E 
 RHF
 ​
+ 
+ 
+ 
+ 
+ 
  =−1.3896266hartree
 
 Bu sonuca, SCF (Self-Consistent Field) prosedürü sonucunda 6 iterasyon sonunda ulaşılmıştır.
