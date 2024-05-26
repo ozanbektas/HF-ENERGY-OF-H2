@@ -62,3 +62,9 @@ def scf_procedure(S, h, two_electron_integrals, nuclear_repulsion_energy, conver
 
 energy, iteration = scf_procedure(S, h, two_electron_integrals, nuclear_repulsion_energy, convergence_tolerance)
 energy, iteration
+E 
+RHF
+​
+ =−1.3896266hartree
+
+Bu sonuca, SCF (Self-Consistent Field) prosedürü sonucunda 6 iterasyon sonunda ulaşılmıştır.
