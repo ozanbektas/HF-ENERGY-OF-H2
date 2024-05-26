@@ -62,8 +62,7 @@ def scf_procedure(S, h, two_electron_integrals, nuclear_repulsion_energy, conver
 
 energy, iteration = scf_procedure(S, h, two_electron_integrals, nuclear_repulsion_energy, convergence_tolerance)
 energy, iteration
-E 
-RHF
+
 ​
  
  
